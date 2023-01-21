@@ -1,0 +1,26 @@
+{
+  "name": "compiler",
+  "version": "1.0.0",
+  "description": "first try of making an offline compiler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "racer5x",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Racer5x/compiler.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Racer5x/compiler/issues"
+  },
+  "homepage": "https://github.com/Racer5x/compiler#readme"
+}
